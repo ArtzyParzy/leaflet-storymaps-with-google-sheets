@@ -1,0 +1,10 @@
+Address,Country,Latitude,Longitude,Address found
+"Calle de la Electricidad, 49, 28918 Leganés, Madrid",es,40.3529984,-3.7976318,"C. de la Electricidad, 49, 28918 Leganés, Madrid, Spain"
+"Av México 95-51 Del Carmen, Coyoacán, 04100 Ciudad de Mexico",mx,19.3551609,-99.1679037,"Av. México 95, Del Carmen, Coyoacán, 04100 Ciudad de México, CDMX, Mexico"
+"Av. Díaz Vélez 4900, Buenos Aires, Argentina",ar,-34.6089384,-58.4362437,"Av. Díaz Vélez 4900, Buenos Aires, Argentina"
+"4 Pennsylvania Plaza, New York, NY 10001",us,40.7505,73.9934,"4 Pennsylvania Plaza, New York, NY 10001"
+"100 Legends Way, Boston, MA 02114",us,42.3662,71.0621,"100 Legends Way, Boston, MA 02114"
+"3900 W Manchester Blvd, Inglewood, CA 90305",us,33.9582,-118.3419,"3900 W Manchester Blvd, Inglewood, CA 90305"
+"3601 S Broad St, Philadelphia, PA 19102",us,35.2252,-80.8393,"3601 S Broad St, Philadelphia, PA 19102"
+"400 W Kilbourn Ave, Milwaukee, WI 53203",us,43.0422,-87.9168,"400 W Kilbourn Ave, Milwaukee, WI 53203"
+"3601 S Broad St Philadelphia, PA 19102",,,,
